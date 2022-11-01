@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="service_id">com.google.example.rockpaperscissors.service</string>
+</resources>
